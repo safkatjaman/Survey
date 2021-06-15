@@ -105,3 +105,8 @@ body {
       background: #C0D6DF;
       color: #FFF;
     }
+
+    a {
+          text-decoration: none;
+          color: black;
+    }
